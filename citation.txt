@@ -1,0 +1,8 @@
+@inproceedings{REPO119,
+    author = "Zhao, Yimin and Gu, Jin",
+    booktitle = "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    organization = "Springer",
+    pages = "276--285",
+    title = "{Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition}",
+    year = "2024"
+}
